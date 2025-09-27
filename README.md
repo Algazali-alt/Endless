@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Project</title>
-</head>
-<body>
-  <h1>Hello World</h1>
-</body>
-</html>
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+h1 {
+  color: #333;
+}
